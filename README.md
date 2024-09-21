@@ -1,4 +1,5 @@
 # **IBM Telco Customer Churn Data Analysis Project Report**
+![Customer-Churn](https://github.com/user-attachments/assets/b3ba4397-a7ce-4fa8-9359-51e4bd4a4083)
 
 ## **Table of Contents**
 
