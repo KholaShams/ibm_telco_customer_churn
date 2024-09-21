@@ -508,6 +508,7 @@ By focusing on these areas, the company can enhance customer loyalty, reduce chu
 ## **Tools Used**
 
 - **MySQL Workbench**: For querying and analyzing data.
-- **IBM Telco Customer Churn Dataset**: As the primary data source for insights.
+- **IBM Telco Customer Churn Dataset**: As the primary data source for insights. (https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113)
+  
 
 ---
