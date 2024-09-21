@@ -52,7 +52,7 @@
 
 ## **Project Overview**
 
-The **IBM Telco Customer Churn** project aimed to analyze customer churn behavior to uncover patterns and insights that could help the telecommunications company improve customer retention. Utilizing the IBM Telco Customer Churn dataset and MySQL Workbench, the analysis focused on understanding the factors influencing churn, such as payment methods, customer demographics, contract types, and customer feedback.
+The **[IBM Telco Customer Churn](https://community.ibm.com/community/user/businessanalytics/blogs/steven-macko/2019/07/11/telco-customer-churn-1113)**  project aimed to analyze customer churn behavior to uncover patterns and insights that could help the telecommunications company improve customer retention. Utilizing the IBM Telco Customer Churn dataset and MySQL Workbench, the analysis focused on understanding the factors influencing churn, such as payment methods, customer demographics, contract types, and customer feedback.
 
 ## **Dataset Overview**
 
